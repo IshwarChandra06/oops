@@ -1,0 +1,13 @@
+class System
+{
+public static PrintStream out;
+static
+{
+out=new PrintStream();
+}
+}
+class PrintStream
+{
+void println(int n)
+{
+}

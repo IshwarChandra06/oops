@@ -1,0 +1,16 @@
+class System
+{
+public static inputStream in;
+static
+{
+in=new inputStream();
+}
+}
+class Scanner
+{
+Scanner(inputStream s)
+{
+}
+
+
+Scanner scn=new Scanner(System.in);
