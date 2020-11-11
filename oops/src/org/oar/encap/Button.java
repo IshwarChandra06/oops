@@ -21,5 +21,6 @@ class Test
 	b1.setheight(6);
 	int n=b1.getheight();
 	System.out.println(n);
+	
 }
 }
